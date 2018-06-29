@@ -1,0 +1,12 @@
+{
+  "emmet.includeLanguages": {
+    "jsx-sublime-babel-tags": "javascriptreact",
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "prettier.eslintIntegration": false,
+  "javascript.format.enable": false,
+  "prettier.jsxBracketSameLine": true
+}
