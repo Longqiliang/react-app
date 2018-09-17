@@ -1,0 +1,42 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "./assets/css"
+        }
+    ],
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html",
+        "jsx-sublime-babel-tags": "javascriptreact",
+        "javascript": "javascriptreact"
+    },
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "extensions.autoUpdate": false,
+    "eslint.autoFixOnSave": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        { "language": "vue", "autoFix": true}
+    ],
+    "eslint.options": {
+        "plugins": ["html"]
+    },
+    "editor.tabSize": 2,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "element-helper.version": "2.3",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "onFocusChange",
+    "search.followSymlinks": false
+}
